@@ -1,0 +1,23 @@
+{
+  "name": "erp-socket-function",
+  "label": "ERPsocketfunction",
+  "type": "widget",
+  "version": "1.12.0",
+  "dependency": [
+    "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js",
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.10.0",
+  "author": "Advisian",
+  "description": "Set and retrieve extents from exb map",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 200,
+    "height": 100
+  }
+}
